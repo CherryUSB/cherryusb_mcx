@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "usb_chipidea_fs_reg.h": "c",
+        "usbd_core.h": "c"
+    }
+}
